@@ -3,7 +3,6 @@
 ## I'm Developer
 
 - 🔭 I’m currently working on dnota
-- 🌱 I’m currently learning master
 - 🥅 2020 Goals: Improve my coding skills
 
 ### Connect with me:
@@ -29,11 +28,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/markdown/markdown.png" />
 <br />
 <br />
 
 
-<img align="left" alt="JaviBL8's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aguilera4&show_icons=true&hide_border=true" />
+<img align="left" alt="Aguilera4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aguilera4&show_icons=true&hide_border=true" />
+
+
 
 [website]: https://github.com/Aguilera4
 [linkedin]: https://www.linkedin.com/in/sergio-aguilera-ram%C3%ADrez-786663152/
+
